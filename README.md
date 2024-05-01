@@ -24,7 +24,7 @@ Experience simplicity and effectiveness combined in this Python-based port scann
 
 2. Navigate to the project directory:
    ```sh
-   cd your-project
+   cd Scorpich
 
 3. Install the required dependencies:
    ```sh
