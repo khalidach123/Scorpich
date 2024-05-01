@@ -65,3 +65,13 @@ Please read the Licence file.
 
 
 > Thanks <3
+
+## Tags
+- #python
+- #networking
+- #security
+- #web
+- #scan
+- #hacking
+- #tool
+
