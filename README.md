@@ -20,7 +20,7 @@ Experience simplicity and effectiveness combined in this Python-based port scann
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-project.git
+   https://github.com/khalidach123/Scorpich.git
 
 2. Navigate to the project directory:
    ```sh
